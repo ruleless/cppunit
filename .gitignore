@@ -1,3 +1,4 @@
+Makefile
 *.o
 *.ncb
 *.suo
@@ -12,3 +13,19 @@ QueueTest
 GPATH
 GRTAGS
 GTAGS
+config.log
+config.status
+config/config.h
+config/stamp-h1
+cppunit-config
+cppunit.pc
+doc/Doxyfile
+examples/cppunittest/.deps
+examples/hierarchy/.deps/
+examples/money/.deps/
+examples/simple/.deps/
+include/cppunit/config-auto.h
+include/cppunit/config/Makefile
+libtool
+src/DllPlugInTester/.deps/
+src/cppunit/.deps/
