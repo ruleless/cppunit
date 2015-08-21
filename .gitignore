@@ -1,6 +1,7 @@
 Makefile
 Debug
 *.lib
+*.exe
 *.o
 *.ncb
 *.suo
