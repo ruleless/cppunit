@@ -1,4 +1,6 @@
 Makefile
+Debug
+*.lib
 *.o
 *.ncb
 *.suo
