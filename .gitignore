@@ -1,0 +1,14 @@
+*.o
+*.ncb
+*.suo
+*.dsw
+*.dsp
+*.user
+temp
+tmp
+cat
+core
+QueueTest
+GPATH
+GRTAGS
+GTAGS
