@@ -2,6 +2,8 @@ Makefile
 Debug
 *.lib
 *.exe
+*.lo
+*.la
 *.o
 *.ncb
 *.suo
@@ -32,3 +34,13 @@ include/cppunit/config/Makefile
 libtool
 src/DllPlugInTester/.deps/
 src/cppunit/.deps/
+autom4te.cache/
+doc/html/
+examples/msvc6/HostApp/Makefile.in
+examples/msvc6/HostApp/res/Makefile.in
+examples/msvc6/Makefile.in
+examples/simple/.libs/
+examples/simple/simple
+src/DllPlugInTester/.libs/
+src/DllPlugInTester/DllPlugInTester
+src/cppunit/.libs/
