@@ -104,9 +104,9 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="../cppunit/include"
+				AdditionalIncludeDirectories="../include"
 				PreprocessorDefinitions="WIN32"
-				RuntimeLibrary="2"
+				RuntimeLibrary="3"
 				UsePrecompiledHeader="0"
 				WarningLevel="3"
 				Detect64BitPortabilityProblems="false"
@@ -125,7 +125,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="cppunitd.lib"
-				AdditionalLibraryDirectories="../cppunit/lib"
+				AdditionalLibraryDirectories="../lib"
 				GenerateDebugInformation="true"
 			/>
 			<Tool

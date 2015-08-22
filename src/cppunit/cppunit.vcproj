@@ -175,54 +175,6 @@
 	</References>
 	<Files>
 		<Filter
-			Name="documentation"
-			>
-			<File
-				RelativePath="..\..\ChangeLog"
-				>
-			</File>
-			<File
-				RelativePath="..\..\CodingGuideLines.txt"
-				>
-			</File>
-			<File
-				RelativePath="..\..\doc\cookbook.dox"
-				>
-			</File>
-			<File
-				RelativePath="..\..\doc\FAQ"
-				>
-			</File>
-			<File
-				RelativePath="..\..\INSTALL-unix"
-				>
-			</File>
-			<File
-				RelativePath="..\..\INSTALL-WIN32.txt"
-				>
-			</File>
-			<File
-				RelativePath="..\..\doc\Money.dox"
-				>
-			</File>
-			<File
-				RelativePath="..\..\NEWS"
-				>
-			</File>
-			<File
-				RelativePath="..\..\doc\other_documentation.dox"
-				>
-			</File>
-			<File
-				RelativePath="..\..\THANKS"
-				>
-			</File>
-			<File
-				RelativePath="..\..\TODO"
-				>
-			</File>
-		</Filter>
-		<Filter
 			Name="listener"
 			>
 			<File
