@@ -4,6 +4,7 @@
 	Version="8.00"
 	Name="cppunit"
 	ProjectGUID="{66A87773-261B-45E7-ADF3-6859E4ADB6A1}"
+	RootNamespace="cppunit"
 	>
 	<Platforms>
 		<Platform
@@ -334,11 +335,11 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="..\..\include\cppunit\ui\text\TextTestRunner.h"
+				RelativePath="..\..\include\cppunit\TextTestRunner.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\include\cppunit\TextTestRunner.h"
+				RelativePath="..\..\include\cppunit\ui\text\TextTestRunner.h"
 				>
 			</File>
 		</Filter>
@@ -1601,11 +1602,11 @@
 			>
 		</File>
 		<File
-			RelativePath="Makefile.am"
+			RelativePath="..\..\include\cppunit\Makefile.am"
 			>
 		</File>
 		<File
-			RelativePath="..\..\include\cppunit\Makefile.am"
+			RelativePath="Makefile.am"
 			>
 		</File>
 	</Files>
